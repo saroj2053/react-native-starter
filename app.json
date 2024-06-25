@@ -1,11 +1,12 @@
 {
   "expo": {
-    "name": "RNCourse",
-    "slug": "RNCourse",
+    "name": "rn-todo-app",
+    "slug": "rn-todo-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
+    "backgroundColor": "#5A639C",
+
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
